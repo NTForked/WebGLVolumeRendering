@@ -2,7 +2,7 @@ WebGL Volume Rendering Made Easy
 ====================
 A very simple step by step introduction to pixel shader volume rendering using WebGL and ThreeJS.
 
-Go to  [http://www.barbaleon.co.uk/](https://www.barbaleon.co.uk/webgl/index.html) for the step by step tutorial
+Go to  [http://www.barbaleon.co.uk/webgl/index.html](https://www.barbaleon.co.uk/webgl/index.html) for the step by step tutorial
 
 Demo online in GitHub [http://www.barbaleon.co.uk/WebGL/Index.html](https://www.barbaleon.co.uk/webgl/index.html)
 
